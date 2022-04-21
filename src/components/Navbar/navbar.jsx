@@ -14,10 +14,10 @@ export const Navbar = () => {
       </div>
       <div
         onClick={() => {
-          Navigate("/login");
+          Navigate("/addFlats");
         }}
       >
-        Login
+        Add Flats
       </div>
     </div>
   );
